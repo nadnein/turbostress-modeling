@@ -1,4 +1,4 @@
-# TurboStress Power Model Fitter
+# TurboStress Power Model Fitter 📈
 
 This script fits a polynomial model to CPU power usage data from TurboStress benchmark CSV files.
 
@@ -35,7 +35,7 @@ python fit_model.py <csv_file> [--degree DEGREE]
 - `<csv_file>`: Path to the CSV file (e.g. `data/ts-readings.csv`)
 - `--degree`, `-d`: (Optional) Degree of the polynomial (default: 1)
 
-## 🧪 Example
+## Example
 
 ```bash
 python fit_model.py data/ts-readings.csv --degree 2
