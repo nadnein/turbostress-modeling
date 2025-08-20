@@ -1,0 +1,16 @@
+pipeline,revision,dataset,cpu_model,trial,e_nfco2footprint (Wh),e_wattmeter (Wh)
+RNA-seq,v1.0,dataset-RNA,Intel Xeon Gold 6130,1,243.48,249.03
+RNA-seq,v1.0,dataset-RNA,Intel Xeon Gold 6130,2,244.53,260.66
+RNA-seq,v1.0,dataset-RNA,Intel Xeon Gold 6130,3,238.36,248.36
+RNA-seq,v1.0,dataset-RNA,Intel Xeon Gold 6130,4,251.05,255.37
+RNA-seq,v1.0,dataset-RNA,Intel Xeon Gold 6130,5,236.71,253.8
+Assembly,v1.0,dataset-ASM,Intel Xeon Gold 6130,1,295.17,301.2
+Assembly,v1.0,dataset-ASM,Intel Xeon Gold 6130,2,289.19,297.89
+Assembly,v1.0,dataset-ASM,Intel Xeon Gold 6130,3,279.65,294.96
+Assembly,v1.0,dataset-ASM,Intel Xeon Gold 6130,4,286.78,307.4
+Assembly,v1.0,dataset-ASM,Intel Xeon Gold 6130,5,292.41,287.66
+Metagenomics,v1.0,dataset-META,Intel Xeon Gold 6130,1,338.46,352.5
+Metagenomics,v1.0,dataset-META,Intel Xeon Gold 6130,2,350.35,346.37
+Metagenomics,v1.0,dataset-META,Intel Xeon Gold 6130,3,334.34,346.49
+Metagenomics,v1.0,dataset-META,Intel Xeon Gold 6130,4,346.41,352.3
+Metagenomics,v1.0,dataset-META,Intel Xeon Gold 6130,5,336.29,353.59
