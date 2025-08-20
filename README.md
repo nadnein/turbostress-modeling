@@ -68,9 +68,3 @@ idle_power (W), runtime (h), e_wattmeter_corrected (Wh)
 ```
 
 - Use provided notebooks and plotting scripts to create **boxplots** and compare plugin vs. wattmeter results  
-
----
-
-## 📄 License
-
-MIT License (or whichever license you choose).
